@@ -11,3 +11,4 @@ for i in range(1,100):
 
 print random.sample(numbers, len(amount_numbers))
 print "END"# Lottery
+# Lottery
